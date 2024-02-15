@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Пепероні",
+        "size": 40,
+        "price": 120,
+        "imageSource": "assets/images/peperoni.png"
+    },
+    {
+        "id": 2,
+        "title": "Гавайська піца",
+        "size": 40,
+        "price": 125,
+        "imageSource": "assets/images/gavayska.jpg"
+    },
+    {
+        "id": 3,
+        "title": "М'ясна піца",
+        "size": 40,
+        "price": 145,
+        "imageSource": "assets/images/meat.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Піца \"4 сири\"",
+        "size": 40,
+        "price": 130,
+        "imageSource": "assets/images/4cheeses.jpg"
+    }
+]
